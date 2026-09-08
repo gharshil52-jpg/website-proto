@@ -14,7 +14,7 @@ elif selected_option == "Modi saiyara":
     st.audio("Saiyaara Modi Ji Version _ Faheem Abdullah _ {Modi ji Version} _ Yo Yo Modi Ji _ Covered By Modi Ji.mp3", autoplay=True)
 st.success(f"you selected: {selected_option}")
 st.subheader("Jaldi,the late")
-st.video("videoplayback.mp4", autoplay=True,caption="Money follows my brother")
+st.video("videoplayback.mp4", autoplay=True")
 st.subheader("Rahul Gandhi")
 st.image("rahul_gandhi.jpg", caption="Rahul Gandhi")
 df=pd.read_csv("Cs.csv")
