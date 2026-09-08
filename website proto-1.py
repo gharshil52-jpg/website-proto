@@ -16,5 +16,3 @@ elif selected_option == "Modi swear_1":
 elif selected_option == "Modi saiyara":
     st.write("You selected Modi saiyara!")
     st.audio("Saiyaara Modi Ji Version _ Faheem Abdullah _ {Modi ji Version} _ Yo Yo Modi Ji _ Covered By Modi Ji.mp3", autoplay=True)
-st.image("ravikishan-67721786269272.JPG")
-st.markdown("\n##Ravi kishan")
